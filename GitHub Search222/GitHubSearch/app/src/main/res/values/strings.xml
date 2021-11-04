@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github Search</string>
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="write_your_review_here">Write your review here..</string>
+    <string name="send">Kirim</string>
+    <string name="profpic">profile picture</string>
+    <string name="Search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+
+</resources>
